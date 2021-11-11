@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\Cuphead-SpriteSheet.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\Cuphead_Run_01.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\Cuphead_Run_02.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\Cuphead_Run_03.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\NicePng_cuphead-png_228460.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\ZeldaDown.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\ZeldaLeft.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\ZeldaRight.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\ZeldaUp.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\toppng.com-link-zelda-1-sprite-sheet-432x303.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\toppng.com-spelunky-sprite-sheet-952x950.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\cce244c659f5abaa9c33c6c4dd091694\wall.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\7e427973f730e59c806b63709a503d0a\DataTarget-03c-Events.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GRP4100-SFML\03c-Events\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\03c-Events\CMakeFiles\DataTarget-03c-Events" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F355D2A-0572-3633-9EA1-1DB752D68351}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

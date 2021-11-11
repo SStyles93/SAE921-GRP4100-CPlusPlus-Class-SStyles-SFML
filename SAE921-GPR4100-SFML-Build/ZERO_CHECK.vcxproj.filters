@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\822a9d4f06fa3d457f693e7c0cfcf271\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F355D2A-0572-3633-9EA1-1DB752D68351}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

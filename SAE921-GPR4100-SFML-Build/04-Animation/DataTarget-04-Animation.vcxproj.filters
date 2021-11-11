@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Cuphead-SpriteSheet.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run01.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run02.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run03.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run04.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run05.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run06.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run07.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run08.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run09.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run10.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run11.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run12.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run13.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run14.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run15.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\d0c1242f9192d6fd8a35770e576aff39\Run16.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\CMakeFiles\8181d2a9708966659edc2a8c7eee6c6d\DataTarget-04-Animation.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GRP4100-SFML\04-Animation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\SAE\SAE921-GRP4100-CPlusPlus-Class-SStyles-SFML\SAE921-GPR4100-SFML-Build\04-Animation\CMakeFiles\DataTarget-04-Animation" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F355D2A-0572-3633-9EA1-1DB752D68351}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
